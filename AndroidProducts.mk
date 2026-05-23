@@ -3,7 +3,6 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-$(call inherit-product, device/xiaomi/merlinx/maintainer.mk)
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_merlinx.mk
 
